@@ -1,0 +1,176 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\smokinggun.agency\ajax\libs\jquery\3.6.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.plyr.io/3.7.8/plyr.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\smokinggun.agency\3.7.8\plyr.css
+Content Type: text/css
+
+Uri: https://js.hs-scripts.com/4101256.js?integration=WordPress&ver=10.0.25
+File Name: C:\Downloaded Web Sites\smokinggun.agency\4101256.js
+Content Type: application/javascript
+
+Uri: https://smokinggun.agency/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\smokinggun.agency\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://smokinggun.agency/what-we-do/tiktok-marketing-agency/
+File Name: C:\Downloaded Web Sites\smokinggun.agency\what-we-do\tiktok-marketing-agency\index.htm
+Content Type: text/html
+
+Uri: https://smokinggun.agency/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.5.1
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://smokinggun.agency/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.5.1
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://smokinggun.agency/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.5.1
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://smokinggun.agency/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.7.5.1
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-content\plugins\contact-form-7\modules\recaptcha\index.js
+Content Type: application/javascript
+
+Uri: https://smokinggun.agency/wp-content/themes/smokinggun/public/css/app.aea5d4.css
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-content\themes\smokinggun\public\css\app.aea5d4.css
+Content Type: text/css
+
+Uri: https://smokinggun.agency/wp-content/themes/smokinggun/public/js/575.4b71f1.js
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-content\themes\smokinggun\public\js\575.4b71f1.js
+Content Type: application/javascript
+
+Uri: https://smokinggun.agency/wp-content/themes/smokinggun/public/js/655.73bf3d.js
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-content\themes\smokinggun\public\js\655.73bf3d.js
+Content Type: application/javascript
+
+Uri: https://smokinggun.agency/wp-content/themes/smokinggun/public/js/app.ed3eaa.js
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-content\themes\smokinggun\public\js\app.ed3eaa.js
+Content Type: application/javascript
+
+Uri: https://smokinggun.agency/wp-content/uploads/2023/01/amec-300x300.jpg
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-content\uploads\2023\01\amec-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://smokinggun.agency/wp-content/uploads/2023/01/bg-graphic-2-746x1024.png
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-content\uploads\2023\01\bg-graphic-2-746x1024.png
+Content Type: image/png
+
+Uri: https://smokinggun.agency/wp-content/uploads/2023/01/eaw-300x300.jpg
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-content\uploads\2023\01\eaw-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://smokinggun.agency/wp-content/uploads/2023/01/pagw-300x300.jpg
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-content\uploads\2023\01\pagw-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://smokinggun.agency/wp-content/uploads/2023/01/pr-card-graphic.png
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-content\uploads\2023\01\pr-card-graphic.png
+Content Type: image/png
+
+Uri: https://smokinggun.agency/wp-content/uploads/2023/01/pr-moment-300x300.jpg
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-content\uploads\2023\01\pr-moment-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://smokinggun.agency/wp-content/uploads/2023/01/pr-week-300x300.jpg
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-content\uploads\2023\01\pr-week-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://smokinggun.agency/wp-content/uploads/2023/01/uk-social-300x300.jpg
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-content\uploads\2023\01\uk-social-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://smokinggun.agency/wp-content/uploads/2023/02/camilo-jimenez-qZenO_gQ7QA-unsplash-1536x1024.jpg
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-content\uploads\2023\02\camilo-jimenez-qZenO_gQ7QA-unsplash-1536x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://smokinggun.agency/wp-content/uploads/2023/02/Group-4293.png
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-content\uploads\2023\02\Group-4293.png
+Content Type: image/png
+
+Uri: https://smokinggun.agency/wp-content/uploads/2023/02/Group-43037.png
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-content\uploads\2023\02\Group-43037.png
+Content Type: image/png
+
+Uri: https://smokinggun.agency/wp-content/uploads/2023/02/Group-4339-2.png
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-content\uploads\2023\02\Group-4339-2.png
+Content Type: image/png
+
+Uri: https://smokinggun.agency/wp-content/uploads/2023/02/karsten-winegeart-60GsdOMRFGc-unsplash-1026x1536.jpg
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-content\uploads\2023\02\karsten-winegeart-60GsdOMRFGc-unsplash-1026x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://smokinggun.agency/wp-content/uploads/2023/02/Mask-Group-58-4.png
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-content\uploads\2023\02\Mask-Group-58-4.png
+Content Type: image/png
+
+Uri: https://smokinggun.agency/wp-content/uploads/2023/02/Mask-Group-68-2.png
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-content\uploads\2023\02\Mask-Group-68-2.png
+Content Type: image/png
+
+Uri: https://smokinggun.agency/wp-content/uploads/2023/02/shingi-rice-DCXuZ7WzM9I-unsplash-1024x1536.jpg
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-content\uploads\2023\02\shingi-rice-DCXuZ7WzM9I-unsplash-1024x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://smokinggun.agency/wp-content/uploads/2023/03/creative-300x157-1.png
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-content\uploads\2023\03\creative-300x157-1.png
+Content Type: image/png
+
+Uri: https://smokinggun.agency/wp-content/uploads/2023/03/NDA-2023-Winner-Banner-Transparent-2048x779-copy-300x148.png
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-content\uploads\2023\03\NDA-2023-Winner-Banner-Transparent-2048x779-copy-300x148.png
+Content Type: image/png
+
+Uri: https://smokinggun.agency/wp-content/uploads/2023/03/prolific-300x157-1.png
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-content\uploads\2023\03\prolific-300x157-1.png
+Content Type: image/png
+
+Uri: https://smokinggun.agency/wp-includes/css/dist/block-library/style.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://smokinggun.agency/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://smokinggun.agency/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: application/javascript
+
+Uri: https://smokinggun.agency/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://smokinggun.agency/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://smokinggun.agency/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://smokinggun.agency/wp-json/
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://smokinggun.agency/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmokinggun.agency%2Fwhat-we-do%2Ftiktok-marketing-agency%2F
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://smokinggun.agency/wp-json/oembed/1.0/embed?url=https:%2F%2Fsmokinggun.agency%2Fwhat-we-do%2Ftiktok-marketing-agency%2F&format=xml
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://smokinggun.agency/wp-json/wp/v2/service/20600
+File Name: C:\Downloaded Web Sites\smokinggun.agency\wp-json\wp\v2\service\20600
+Content Type: application/json
+
+Uri: https://www.google.com/recaptcha/api.js?render=6Lco5d0mAAAAADg9byZL5ZCgsmednChsqBrFVIqh&ver=3.0
+File Name: C:\Downloaded Web Sites\smokinggun.agency\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-P8452L1BXN
+File Name: C:\Downloaded Web Sites\smokinggun.agency\gtag\js
+Content Type: application/javascript
+
